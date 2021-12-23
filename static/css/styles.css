@@ -1,0 +1,19 @@
+body {
+    background-color: #eef4e1;
+    text-align: center;
+    background-image: url("C:/Users/Sunny/Desktop/hatespeech/pic.jpg");
+    background-color: #cccccc;
+}
+
+.navbar {
+    background-color: #333333;
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
+

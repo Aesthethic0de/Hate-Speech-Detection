@@ -1,4 +1,4 @@
-# hatespeechDetection
+# Hate Speech Detection using LSTM
  
 ![image](https://user-images.githubusercontent.com/74757813/147450007-e421ad16-086b-41eb-96ba-7e194b6ab9f8.png)
 
